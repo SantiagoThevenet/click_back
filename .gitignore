@@ -1,0 +1,21 @@
+# Ignorar los módulos de Node.js
+node_modules/
+
+# Ignorar los archivos generados al ejecutar el código
+dist/
+build/
+
+# Ignorar los archivos de registro
+logs/
+*.log
+
+# Ignorar archivos temporales
+*.tmp
+
+# Ignorar archivos de configuración local (pueden variar según tu IDE/Editor)
+.vscode/
+.idea/
+
+# Ignorar archivos de configuración de sistema (pueden variar según tu sistema)
+.DS_Store
+Thumbs.db
