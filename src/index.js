@@ -1,6 +1,6 @@
 import express from 'express'
 import router from './routes/app.routes.js'
-import cors from 'cors'; // Asegúrate de importar el paquete cors
+import cors from 'cors';
 
 const app = express();
 
